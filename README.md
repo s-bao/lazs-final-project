@@ -1,2 +1,2 @@
-# lazs-final-project
+# Timbre Classification DL Project
 Spring 2025 CSCI 1470 Final Project (Andrew, Luke, Sarah, Ziqi)
